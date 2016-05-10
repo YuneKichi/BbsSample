@@ -14,4 +14,4 @@
 * ConsoleApplication1はC++/CLIコードの呼び出しによるテスト
 * ConsoleApplication2はC#+ILの呼び出しによるテスト
 
-Visual Studio Community Update 2で作成・確認をしています。
+Visual Studio Community 2015 Update 2で作成・確認をしています。
